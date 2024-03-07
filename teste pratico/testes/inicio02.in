@@ -1,0 +1,17 @@
+c CA
+c CB
+c CC
+c CD
+p Paragem1 1 1
+p Paragem2 2 2
+p Paragem3 3 3
+p Paragem4 4 4
+l CA Paragem1 Paragem2 1 1
+l CA Paragem2 Paragem3 1 1
+l CB Paragem1 Paragem2 1 1
+s Paragem1
+s Paragem2
+l CA Paragem4 Paragem1 1 1
+s Paragem1
+s Paragem4
+q
